@@ -1,0 +1,80 @@
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\background.xnb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\HealthyFrenzy.exe
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\HealthyFrenzy.pdb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\obj\x86\Debug\HealthyFrenzy.exe
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\obj\x86\Debug\HealthyFrenzy.pdb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\shopcart.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\background.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\shopcart.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.dll
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.xml
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\obj\x86\Debug\HealthyFrenzy.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\obj\x86\Debug\HealthyFrenzy.exe
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\obj\x86\Debug\HealthyFrenzy.pdb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\HealthyFrenzy.exe
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\HealthyFrenzy.pdb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\apple.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\bottlewater.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\burger.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\drink.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\fries.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\icecream.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\orange.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\Pear.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\apple.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\bottlewater.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\burger.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\drink.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\fries.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\icecream.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\orange.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\Pear.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\healthBar.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\mainFont.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\donut.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\avocado.xnb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundGameOver.xnb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundTitle.xnb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundQuit.xnb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundMusic.xnb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundMusic.wma
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\LevelUpSound-effect.xnb
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\obj\x86\Debug\HealthyFrenzy.csprojResolveAssemblyReference.cache
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\failSound.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\gameOver.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\Hop.xnb
+\\int.edinburghcollege.ac.uk\dfs\studenthome\ec1637434\my documents\visual studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\newLife.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\donut.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\healthBar.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\avocado.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundQuit.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundGameOver.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundTitle.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\mainFont.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundMusic.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\LevelUpSound-effect.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\failSound.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\gameOver.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\Hop.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\newLife.xnb
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundMusic.wma

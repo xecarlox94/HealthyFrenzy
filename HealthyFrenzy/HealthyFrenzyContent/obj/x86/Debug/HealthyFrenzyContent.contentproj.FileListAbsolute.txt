@@ -1,0 +1,2 @@
+H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzyContent\obj\x86\Debug\HealthyFrenzyContent.contentprojResolveAssemblyReference.cache
+\\int.edinburghcollege.ac.uk\dfs\StudentHome\ec1637434\My Documents\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzyContent\obj\x86\Debug\HealthyFrenzyContent.contentprojResolveAssemblyReference.cache

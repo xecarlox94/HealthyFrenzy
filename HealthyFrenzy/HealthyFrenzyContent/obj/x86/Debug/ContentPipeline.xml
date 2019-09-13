@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2017-06-01T18:22:27.1758781+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shopcart.png</Source>
+      <Name>shopcart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\shopcart.xnb</Output>
+      <Time>2017-06-07T12:06:15.0576879+01:00</Time>
+    </Item>
+    <Item>
+      <Source>apple.png</Source>
+      <Name>apple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\apple.xnb</Output>
+      <Time>2017-06-07T12:04:36.9937271+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bottlewater.png</Source>
+      <Name>bottlewater</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\bottlewater.xnb</Output>
+      <Time>2017-06-07T11:54:01.9373425+01:00</Time>
+    </Item>
+    <Item>
+      <Source>burger.png</Source>
+      <Name>burger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\burger.xnb</Output>
+      <Time>2017-06-07T11:54:58.531922+01:00</Time>
+    </Item>
+    <Item>
+      <Source>donut.png</Source>
+      <Name>donut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\donut.xnb</Output>
+      <Time>2017-06-07T11:56:22.3768985+01:00</Time>
+    </Item>
+    <Item>
+      <Source>drink.png</Source>
+      <Name>drink</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\drink.xnb</Output>
+      <Time>2017-06-07T11:58:00.0505296+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fries.png</Source>
+      <Name>fries</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\fries.xnb</Output>
+      <Time>2017-06-07T11:59:31.4581441+01:00</Time>
+    </Item>
+    <Item>
+      <Source>icecream.png</Source>
+      <Name>icecream</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\icecream.xnb</Output>
+      <Time>2017-06-07T12:00:27.2402117+01:00</Time>
+    </Item>
+    <Item>
+      <Source>orange.png</Source>
+      <Name>orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\orange.xnb</Output>
+      <Time>2017-06-07T12:02:06.6163394+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pear.png</Source>
+      <Name>pear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\pear.xnb</Output>
+      <Time>2017-06-07T12:03:41.1805304+01:00</Time>
+    </Item>
+    <Item>
+      <Source>healthBar.png</Source>
+      <Name>healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\healthBar.xnb</Output>
+      <Time>2017-06-07T12:58:08.0205199+01:00</Time>
+    </Item>
+    <Item>
+      <Source>avocado.png</Source>
+      <Name>avocado</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\avocado.xnb</Output>
+      <Time>2017-06-07T14:33:03.4360327+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundQuit.png</Source>
+      <Name>backgroundQuit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundQuit.xnb</Output>
+      <Time>2017-06-13T14:44:41.5203457+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundGameOver.png</Source>
+      <Name>backgroundGameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundGameOver.xnb</Output>
+      <Time>2017-06-13T14:44:46.9758912+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundTitle.png</Source>
+      <Name>backgroundTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundTitle.xnb</Output>
+      <Time>2017-06-13T14:46:31.3453271+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainFont.spritefont</Source>
+      <Name>mainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\mainFont.xnb</Output>
+      <Time>2017-06-07T13:35:56.6400516+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundMusic.mp3</Source>
+      <Name>backgroundMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundMusic.xnb</Output>
+      <Extra>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\backgroundMusic.wma</Extra>
+      <Time>2017-06-09T15:21:31.6828409+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelUpSound-effect.wav</Source>
+      <Name>LevelUpSound-effect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\LevelUpSound-effect.xnb</Output>
+      <Time>2017-06-09T16:04:19.3226165+01:00</Time>
+    </Item>
+    <Item>
+      <Source>failSound.wav</Source>
+      <Name>failSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\failSound.xnb</Output>
+      <Time>2017-06-12T16:01:07.2903112+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOver.wav</Source>
+      <Name>gameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\gameOver.xnb</Output>
+      <Time>2017-06-12T16:05:43.5083112+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Hop.wav</Source>
+      <Name>Hop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\Hop.xnb</Output>
+      <Time>2017-06-12T16:41:14.8467177+01:00</Time>
+    </Item>
+    <Item>
+      <Source>newLife.wav</Source>
+      <Name>newLife</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\newLife.xnb</Output>
+      <Time>2017-06-12T17:29:49.8442118+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzyContent\</RootDirectory>
+      <LoggerRootDirectory>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzyContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\Visual Studio 2015\Projects\HealthyFrenzy\HealthyFrenzy\HealthyFrenzy\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-22T18:24:49.2839378+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
